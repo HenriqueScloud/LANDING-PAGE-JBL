@@ -7,13 +7,13 @@
 
 <p align='center'>🌟 Brafé: O Sabor da Inovação em um Site Encantador ☕<p><br>
 
-O projeto **Landing Page JBL** é uma página de destino desenvolvida como o objetivo de desafiar e aprimorar habilidades em HTML e CSS avançado. O foco principal foi aplicar os principais conceitos e ferramentas do front-end, resultando em um site totalmente responsivo e com animações em CSS.
+O projeto **Landing Page JBL** é uma página de destino desenvolvida como o objetivo de desafiar e aprimorar habilidades em HTML e CSS avançado. O foco principal foi aplicar os principais conceitos e ferramentas do front-end, resultando em um site totalmente responsivo e com animações em CSS.☑️💪
 
 ## Características do Projeto
 
 - Desenvolvido em HTML e CSS avançado.
-- Layout totalmente responsivo, adaptando-se perfeitamente a diferentes dispositivos.
-- Utilização de animações em CSS para tornar a experiência do usuário mais atrativa e dinâmica.
+- Layout totalmente responsivo, adaptando-se perfeitamente a diferentes dispositivos.📱💻
+- Utilização de animações em CSS para tornar a experiência do usuário mais atrativa e dinâmica.✨🎉
 
 ## Descrição Detalhada
 
@@ -23,16 +23,16 @@ A estilização avançada com CSS permitiu a utilização de animações sutis e
 
 ## Aplicações no Mercado de Trabalho
 
-O projeto **Landing Page JBL** é uma demonstração prática das habilidades em HTML e CSS avançado adquiridas durante o desenvolvimento. Ao criar um site responsivo e com animações, você mostra para potenciais empregadores ou clientes que é capaz de lidar com os desafios mais exigentes do front-end.
+O projeto **Landing Page JBL** é uma demonstração prática das habilidades em HTML e CSS avançado adquiridas durante o desenvolvimento. Ao criar um site responsivo e com animações, você mostra para potenciais empregadores ou clientes que é capaz de lidar com os desafios mais exigentes do front-end.💼✨
 
-Dominar as principais ferramentas do front-end, como HTML e CSS, é essencial para se tornar um profissional de destaque no mercado de trabalho. Projetos como este ajudam você a consolidar seus conhecimentos e se destacar em sua carreira, permitindo que você crie experiências incríveis para os usuários e contribua para o sucesso de suas aplicações.
+Dominar as principais ferramentas do front-end, como HTML e CSS, é essencial para se tornar um profissional de destaque no mercado de trabalho. Projetos como este ajudam você a consolidar seus conhecimentos e se destacar em sua carreira, permitindo que você crie experiências incríveis para os usuários e contribua para o sucesso de suas aplicações. 🌟💼
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou apenas quiser trocar uma ideia, sinta-se à vontade para entrar em contato comigo através do meu e-mail: [henriquesilvamendes076@gmail.com](mailto:henriquesilvamendes076@gmail.com).
+Se você tiver alguma dúvida, sugestão ou apenas quiser trocar uma ideia, sinta-se à vontade para entrar em contato comigo através do meu e-mail: [henriquesilvamendes076@gmail.com](mailto:henriquesilvamendes076@gmail.com).📩📧
 
-Espero que esse projeto tenha sido um desafio gratificante e que tenha contribuído para o seu aprendizado e crescimento profissional em HTML e CSS avançado.
+Espero que esse projeto tenha sido um desafio gratificante e que tenha contribuído para o seu aprendizado e crescimento profissional em HTML e CSS avançado.🚀🌟
 
 Aproveite e coloque em prática todo o conhecimento adquirido!
 
-**Landing Page JBL** - Desafie seus limites no front-end! 🎧🔊🖥️
+**Landing Page JBL** - Desafie seus limites no front-end! 🎧🔊💯
