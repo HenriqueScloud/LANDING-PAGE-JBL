@@ -1,7 +1,7 @@
 
 # README - Projeto Landing Page JBL
 
-<p align='center'><img src='Vídeo sem título ‐ Feito com o Clipchamp (2).mp4'></p>
+<p align='center'><img src='Captura de tela 2023-11-07 160839.png'></p>
 
 <p align='center'><button ><a href='https://henriquescloud.github.io/LANDING-PAGE-JBL/fone.html' > ACESSAR </a></button></p><br><h1></h1>
 
