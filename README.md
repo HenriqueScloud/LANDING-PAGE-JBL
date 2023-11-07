@@ -5,9 +5,9 @@
 
 <p align='center'><button ><a href='https://henriquescloud.github.io/LANDING-PAGE-JBL/fone.html' > ACESSAR </a></button></p><br><h1></h1>
 
-<p align='center'>🌟 Brafé: O Sabor da Inovação em um Site Encantador ☕<p><br>
+<p align='center'>🌟 Descubra a harmonia perfeita entre som e estilo com os produtos JBL.🎧🔊💯<p><br>
 
-O projeto **Landing Page JBL** é uma página de destino desenvolvida como o objetivo de desafiar e aprimorar habilidades em HTML e CSS avançado. O foco principal foi aplicar os principais conceitos e ferramentas do front-end, resultando em um site totalmente responsivo e com animações em CSS.☑️💪
+<p  align='center'>O projeto Landing Page JBL é uma página de destino desenvolvida como o objetivo de desafiar e aprimorar habilidades em HTML e CSS avançado. O foco principal foi aplicar os principais conceitos e ferramentas do front-end, resultando em um site totalmente responsivo e com animações em CSS.☑️💪</p>
 
 ## Características do Projeto
 
