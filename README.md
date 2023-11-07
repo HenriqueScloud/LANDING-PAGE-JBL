@@ -36,3 +36,10 @@ Espero que esse projeto tenha sido um desafio gratificante e que tenha contribu�
 Aproveite e coloque em prática todo o conhecimento adquirido!
 
 **Landing Page JBL** - Desafie seus limites no front-end! 🎧🔊💯
+
+<h2>
+    💻✍️ Tecnologias:
+</h2>
+<br>
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
